@@ -1,0 +1,8 @@
+Flask
+taipy
+pyspark
+pandas
+seaborn
+matplotlib
+geopandas
+
